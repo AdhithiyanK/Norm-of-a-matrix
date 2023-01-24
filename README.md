@@ -47,8 +47,6 @@ print(norm_of_matrix)
 
 
 
-
-```
 ## Output:
 ### 1-Norm of a Matrix
 ![Screenshot_20230124_081158](https://user-images.githubusercontent.com/121029258/214331955-e61299af-bc17-41b5-80da-8f9b7894c369.png)
